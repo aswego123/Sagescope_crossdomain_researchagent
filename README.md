@@ -67,11 +67,12 @@ Reports are saved in the `reports` directory with timestamps.
 ```
 sagescope/
 ├── main.py           # CLI interface
-├── gemini_api.py     # Gemini Pro API wrapper
 ├── web_search.py     # Multi-source search functionality
 ├── summarizer.py     # Content extraction and summarization
 ├── requirements.txt  # Project dependencies
-└── reports/         # Generated research reports
+├── app.py              # Main Streamlit interface
+├── gemini_api.py       # Gemini AI integration
+└── .env               # API keys
 ```
 
 ## Contributing
