@@ -14,7 +14,7 @@ SageScope is an AI-powered research assistant that helps you gather and analyze 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sagescope.git
+git clone https://github.com/aswego123/Sagescope_crossdomain_researchagent.git
 cd sagescope
 ```
 
